@@ -15,17 +15,18 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: zunnadk
+    display_name: zunnadk
+    avatar: 'assets/images/avatar.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: demo@gmail.com
     web: https://ducdk.github.io/
     twitter: https://twitter.com
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+    name: dk
+    display_name: dk    
+    avatar: 'assets/images/avatar.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: demo@gmail.com
     web: https://ducdk.github.io/
